@@ -4,7 +4,9 @@ This is the all source code of a UsbViewer application implemented via C++ and Q
 About me:
 
 Author: Feng Qiangguo
+
 Mail:   fengjungle@gmail.com
+
 WeChat: fengjungle
 
 
@@ -18,11 +20,7 @@ Net devices, Keyboard and Mouse. I just show these kinds and codes for example. 
  
 3. The application is coded in C, C++ and Qt5.6.0. 
 
-4. I add a simple but useful log system into the UsbViewer. The log system is also implemented by me. For more information about
-
-the log system, please visit the CSDN blog: https://blog.csdn.net/sinat_21107433/article/details/103102542
-
-Or you can get the source code from: https://github.com/FengJungle/Log
+4. I add a simple but useful log system into the UsbViewer. The log system is also implemented by me. For more information about the log system, please visit the CSDN blog: https://blog.csdn.net/sinat_21107433/article/details/103102542. Or you can get the source code from: https://github.com/FengJungle/Log
 
 
 
