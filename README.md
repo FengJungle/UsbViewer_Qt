@@ -5,7 +5,7 @@ About me:
 
 Author: Feng Qiangguo
 
-Mail:   fengjungle@gmail.com
+Mail:   fengjungle@126.com
 
 WeChat: fengjungle
 
